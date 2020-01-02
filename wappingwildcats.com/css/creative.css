@@ -302,7 +302,7 @@ select {
 }
 
 #events {
-  padding: 7rem !important;
+  padding: 5rem !important;
 }
 
 #info1, #info2, #info3 {
@@ -10882,7 +10882,11 @@ hr.light {
 }
 
 .page-section {
-  padding: 7rem 0;
+  padding: 3rem 0;
+}
+
+.extra-padding {
+  padding: 7.5rem 0;
 }
 
 .top-buffer {
@@ -11058,6 +11062,7 @@ p, #portfolio, #contact {
 
 #contact {
   padding-bottom: 20px !important;
+  
 }
 
 .linktoteams2page {
